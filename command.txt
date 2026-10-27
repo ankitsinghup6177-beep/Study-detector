@@ -1,0 +1,6 @@
+cd "E:\Ankit\Study_WebBased_Proctor-main" 
+python -m venv venv
+pip install flask opencv-python numpy cvzone mediapipe ultralytics
+python -m pip install --upgrade pip
+python app.py
+Then Running on Browser http://127.0.0.1:5000
